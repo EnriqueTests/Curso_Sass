@@ -28,12 +28,16 @@ body {
   margin: 0 auto;
 }
 
-.main .main__paragraph {
+.main .main__paragraph1 {
   font-weight: 400;
 }
 
 .main:hover {
   color: pink;
+}
+
+.main .main__paragraph1:hover {
+  color: #ff652f;
 }
 
 @media (max-width: 800px) {
